@@ -15,4 +15,4 @@ p{margin:20px;background-color: #6699ff;}
 3.绝对定位absolute
 4.内层float + display：inline block;
 5.外层overflow:hidden; zoom:1
-
+6.避免它
